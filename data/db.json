@@ -1,0 +1,17 @@
+{
+    "blogs":[
+        {
+            "title":"my first blog",
+            "body":"this is my first project and created by using the net ninjs yiutube channel he was explaining each and every step with example",
+            "author":"moris",
+            "id":1
+        },
+        {
+            
+            "title":"my second blog",
+            "body":"this is my first project and created by using the net ninjs yiutube channel he was explaining each and every step with example",
+            "author":"demorgan",
+            "id":2
+        }
+    ]
+}
